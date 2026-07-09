@@ -21,7 +21,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amiityadav)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amiit.contact@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live_Projects-000000?style=flat-square&logo=vercel&logoColor=white)](https://ai-journal-system-chi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Live_Projects-000000?style=flat-square&logo=vercel&logoColor=white)](https://amit-portfolio-iota-six.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Amit-code01)
 
 </div>
