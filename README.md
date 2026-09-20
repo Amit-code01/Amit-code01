@@ -78,14 +78,6 @@ Languages   JavaScript (ES6+) · Python · Java
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-code01&layout=compact&hide_border=true&title_color=0A66C2&text_color=333" width="40%"/>
 </div>
 
----
-
-### Certifications
-
-- AWS Cloud Practitioner — Amazon Web Services
-- Google Cloud Associate Cloud Engineer — Google Cloud Platform
-
----
 
 <div align="center">
 
