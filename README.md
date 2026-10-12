@@ -80,39 +80,15 @@ An AI-powered interview preparation application designed to generate personalize
 **[Live Demo](https://prepwise-ai-interviewer.vercel.app/)** · **[Source Code](https://github.com/Amit-code01/prepwise-ai-interviewer)**
 
 ## GitHub Activity
-<div align="center">
-
-🟩 Contribution Calendar
-
-
-
-Daily contributions throughout the year
-
-<br/>
-
-🔥 Contribution Streaks
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-code01&theme=default&hide_border=true&ring=0A66C2&fire=F97316&currStreakLabel=0A66C2&sideLabels=333333&dates=666666" alt="GitHub current streak, longest streak, and contribution stats" />
-
-<br/>
-
-📈 Coding Activity Graph
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-code01&theme=github-compact&hide_border=true&area=true&color=0A66C2&line=0A66C2&point=F97316" alt="GitHub contribution activity graph" />
-
-<br/>
-
-💻 GitHub Statistics
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Amit-code01&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-code01&layout=compact&hide_border=true" alt="Most used programming languages" />
-
-</div>
+## 🟩 Coding Consistency
 
 <div align="center">
 
-Consistency over intensity. Keep building every day. 🚀
+[![GitHub Contribution Calendar](https://ghchart.rshah.org/22c55e/Amit-code01)](https://github.com/Amit-code01)
+
+<a href="https://github.com/Amit-code01">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-code01&theme=dark&hide_border=true&background=1f1f1f&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=aaaaaa&dates=888888" alt="GitHub contribution streak statistics" />
+</a>
 
 </div>
 ### Let's Connect
