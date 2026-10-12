@@ -1,88 +1,104 @@
-<div align="center">
+ <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=Amit-code01&style=flat-square&color=0A66C2&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<div align="center">
-
-![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-Paid_Remote_Internship-0A66C2?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Amit-code01&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
 
 # Amit Yadav
-### Full-Stack AI Developer · MERN · LLM Integration
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amiityadav)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amiit.contact@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live_Projects-000000?style=flat-square&logo=vercel&logoColor=white)](https://amit-portfolio-iota-six.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Amit-code01)
+### Software Engineer | Backend Development | AI-Powered Applications
+
+Building full-stack products, REST APIs, and AI-enabled applications.
+
+<a href="https://linkedin.com/in/amiityadav"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Amit-code01"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://amit-portfolio-iota-six.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:amiit.contact@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
 ---
 
-### About
+## About Me
 
-Pre-final year B.Tech student (ECE, PTU) building production-grade AI applications.
-I specialize in LLM integration, RAG pipelines, and full-stack MERN development —
-with 3 deployed products and real users.
+I'm a pre-final-year B.Tech student in Electronics and Communication Engineering at Puducherry Technological University, focused on building a career in software engineering.
 
-Currently seeking a **paid remote internship** in Full-Stack / AI / SDE roles.
+- Developing full-stack applications and backend services.
+- Working with **Java, Spring Boot, MySQL, REST APIs, and SQL**.
+- Building AI-powered features using LLM APIs and prompt engineering.
+- Experienced with React, Node.js, Express.js, and MongoDB.
+- Interested in software engineering, backend development, and AI application engineering.
+- Open to software engineering internships and entry-level opportunities.
 
----
+## Technical Skills
 
-### Tech Stack
+| Category | Technologies |
+|---|---|
+| Languages | Java, JavaScript, Python, SQL |
+| Backend | Spring Boot, Node.js, Express.js, REST APIs, JWT |
+| Frontend | React.js, TypeScript, Tailwind CSS |
+| Databases | MySQL, MongoDB Atlas |
+| AI Development | LLM Integration, Groq API, Prompt Engineering, AI Application Development |
+| Tools & Deployment | Git, GitHub, Docker, Postman, Vercel, Render |
 
-```
-Frontend    React.js · Next.js · Tailwind CSS · Recharts
-Backend     Node.js · Express.js · REST APIs · Mongoose
-Database    MongoDB Atlas · MySQL
-AI / LLM    Groq SDK · Llama 3.3 · Claude API · OpenAI · RAG · Prompt Engineering
-DevOps      Docker · Git · Vercel · Render · AWS · GCP
-Languages   JavaScript (ES6+) · Python · Java
-```
+## Featured Projects
 
----
+### 1. FitFinance — Personal Finance & Fitness Tracker
 
-### Featured Projects
+**Java · Spring Boot · MySQL · React · TypeScript · Docker**
 
-**[PrepWise AI](https://github.com/Amit-code01/prepwise)**
-> LLM-powered interview simulator · Resume parsing → personalized questions → radar-chart scoring
-> `React` `Node.js` `Groq SDK` `Llama 3.3` `MongoDB` `RAG Pipeline`
+A full-stack application combining personal finance tracking with fitness and health-related activity management.
 
-**[AI Journal System](https://ai-journal-system-chi.vercel.app)**
-> Production journaling platform with sentiment analysis and automated summaries · 100+ active users · 25% latency reduction
-> `React` `Node.js` `Llama 3.1` `Docker` `MongoDB`
+- REST API backend with authentication and JWT-based security.
+- Expense, budget, workout, and goal management.
+- Dashboard with spending summaries and activity insights.
+- Containerization support using Docker.
 
-**[Gharpayy CRM](https://gharpayy-crm-two.vercel.app)**
-> Enterprise CRM with lead lifecycle tracking, pipeline analytics, and cron-based automation
-> `React (Vite)` `Node.js` `MongoDB Atlas` `Chart.js`
+**[View Repository](https://github.com/Amit-code01/FitFinance)**
 
-**[GramDoc AI](https://github.com/Amit-code01)** *(In Development)*
-> Rural health assistant · multilingual voice input (22+ languages) · offline-first AI triage · ABHA integration
-> `React` `Node.js` `AI Triage` `Health-tech`
+### 2. Gharpayy CRM — Lead Management System
 
----
+**React · Node.js · Express.js · MongoDB Atlas**
 
-### GitHub Stats
+A CRM application for managing leads, visits, agent assignments, and follow-ups.
+
+- Lead lifecycle and follow-up management.
+- Agent assignment based on workload.
+- Dashboard for tracking lead activity.
+- Scheduled automation for inactive leads.
+
+**[Live Demo](https://gharpayy-crm-two.vercel.app/)** · **[Source Code](https://github.com/Amit-code01/gharpayy-crm)**
+
+### 3. PrepWise — AI Interview Preparation
+
+**React · Node.js · Express.js · MongoDB · Groq API**
+
+An AI-powered interview preparation application designed to generate personalized interview questions and provide structured feedback.
+
+- LLM-powered question generation.
+- Interview-focused workflows and response evaluation.
+- API validation and error-handling improvements.
+
+**[Live Demo](https://prepwise-ai-interviewer.vercel.app/)** · **[Source Code](https://github.com/Amit-code01/prepwise-ai-interviewer)**
+
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-code01&theme=default&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-code01&layout=compact&hide_border=true&title_color=0A66C2&text_color=333" width="40%"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Amit-code01&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-code01&layout=compact&hide_border=true" alt="Most used languages" />
+
 </div>
 
+---
 
 <div align="center">
 
-**Open to paid remote internships · Full-Stack · AI/LLM · SDE**
+### Let's Connect
 
-[amiit.contact@gmail.com](mailto:amiit.contact@gmail.com)
+Interested in software engineering, backend systems, and practical AI applications.
+
+**Open to software engineering internships and entry-level opportunities.**
+
+<a href="https://linkedin.com/in/amiityadav">LinkedIn</a> · <a href="https://github.com/Amit-code01">GitHub</a> · <a href="https://amit-portfolio-iota-six.vercel.app/">Portfolio</a>
 
 </div>
