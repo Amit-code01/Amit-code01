@@ -19,7 +19,7 @@ Building full-stack products, REST APIs, and AI-enabled applications.
 
 ## About Me
 
-I'm a pre-final-year B.Tech student in Electronics and Communication Engineering at Puducherry Technological University, focused on building a career in software engineering.
+I'm a Final-year B.Tech student in Electronics and Communication Engineering at Puducherry Technological University, focused on building a career in software engineering.
 
 - Developing full-stack applications and backend services.
 - Working with **Java, Spring Boot, MySQL, REST APIs, and SQL**.
