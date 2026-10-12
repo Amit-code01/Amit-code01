@@ -80,19 +80,41 @@ An AI-powered interview preparation application designed to generate personalize
 **[Live Demo](https://prepwise-ai-interviewer.vercel.app/)** · **[Source Code](https://github.com/Amit-code01/prepwise-ai-interviewer)**
 
 ## GitHub Activity
-
 <div align="center">
+
+🟩 Contribution Calendar
+
+
+
+Daily contributions throughout the year
+
+<br/>
+
+🔥 Contribution Streaks
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-code01&theme=default&hide_border=true&ring=0A66C2&fire=F97316&currStreakLabel=0A66C2&sideLabels=333333&dates=666666" alt="GitHub current streak, longest streak, and contribution stats" />
+
+<br/>
+
+📈 Coding Activity Graph
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-code01&theme=github-compact&hide_border=true&area=true&color=0A66C2&line=0A66C2&point=F97316" alt="GitHub contribution activity graph" />
+
+<br/>
+
+💻 GitHub Statistics
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amit-code01&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-code01&layout=compact&hide_border=true" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-code01&layout=compact&hide_border=true" alt="Most used programming languages" />
 
 </div>
 
----
-
 <div align="center">
 
+Consistency over intensity. Keep building every day. 🚀
+
+</div>
 ### Let's Connect
 
 Interested in software engineering, backend systems, full stack web development and practical AI applications.
