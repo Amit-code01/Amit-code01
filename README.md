@@ -19,7 +19,7 @@ Building full-stack products, REST APIs, and AI-enabled applications.
 
 ## About Me
 
-I'm a Final-year B.Tech student in Electronics and Communication Engineering at Puducherry Technological University, focused on building a career in software engineering.
+I'm a Final-year B.Tech student at Puducherry Technological University, focused on building a career in software engineering.
 
 - Developing full-stack applications and backend services.
 - Working with **Java, Spring Boot, MySQL, REST APIs, and SQL**.
@@ -95,9 +95,9 @@ An AI-powered interview preparation application designed to generate personalize
 
 ### Let's Connect
 
-Interested in software engineering, backend systems, and practical AI applications.
+Interested in software engineering, backend systems, full stack web development and practical AI applications.
 
-**Open to software engineering internships and entry-level opportunities.**
+**Open to software engineering internships, Full time jobs and entry-level opportunities.**
 
 <a href="https://linkedin.com/in/amiityadav">LinkedIn</a> · <a href="https://github.com/Amit-code01">GitHub</a> · <a href="https://amit-portfolio-iota-six.vercel.app/">Portfolio</a>
 
